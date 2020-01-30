@@ -1,2 +1,1 @@
-# veltech-2020-morning
-Vel Tech Course 2020
+# Vel Tech Short Course on Competitive Programming in C++ 2020
